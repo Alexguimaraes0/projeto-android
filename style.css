@@ -244,7 +244,7 @@ aside > ul {
 }
 
 aside > ul > li::before {
-    content: '\2714\00A0\00A0 ';
+    content: '\2714 ';
     
 }
 
